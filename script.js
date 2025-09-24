@@ -5,7 +5,7 @@ document.getElementById("footprintForm").addEventListener("submit", function(e) 
   let electricity = parseFloat(document.getElementById("electricity").value) || 0;
   let meals = parseFloat(document.getElementById("meals").value) || 0;
 
-  // Approximate emission factors
+  // Approximate emission factors 
   let carEmission = carKm * 0.21;       // kg CO2 per km
   let electricityEmission = electricity * 0.85; // kg CO2 per kWh
   let mealsEmission = meals * 2.5;      // kg CO2 per non-veg meal
