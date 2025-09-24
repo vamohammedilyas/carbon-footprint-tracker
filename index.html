@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EcoTrack - Carbon Footprint Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🌍 EcoTrack</h1>
+    <p>Track your daily carbon footprint and go green!</p>
+  </header>
+
+  <main>
+    <form id="footprintForm">
+      <label>🚗 Kilometers traveled by car:
+        <input type="number" id="car" placeholder="Enter km" required>
+      </label>
+
+      <label>💡 Electricity usage (kWh):
+        <input type="number" id="electricity" placeholder="Enter kWh" required>
+      </label>
+
+      <label>🍗 Non-veg meals per day:
+        <input type="number" id="meals" placeholder="Enter count" required>
+      </label>
+
+      <button type="submit">Calculate Footprint</button>
+    </form>
+
+    <section id="result"></section>
+  </main>
+
+  <footer>
+    <p>Made with ❤️ for a greener future</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
