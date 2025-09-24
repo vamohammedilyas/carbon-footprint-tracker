@@ -19,27 +19,14 @@ A web app that lets users estimate their daily carbon footprint based on car tra
 
 ---
 
-## 🖼️ Screenshot / Preview
-
-*(Include one or more screenshots here — e.g. form, result view, tip messages)*
-
----
-
-## Project Structure
-
-```bash
----Basic_demo_ecommerce_app/
-│
-├── index.html # Main HTML file
-├── style.css # CSS styles for layout and design
-├── script.js # JavaScript logic for interactivity
-├── README.md # Project documentation
 
 ## 🛠️ Technologies Used
 
 - **HTML** — for content and form elements  
 - **CSS** — for styling, layout, responsiveness  
 - **JavaScript** — for logic, calculations, interaction  
+
+---
 
 ---
 
@@ -60,6 +47,19 @@ A web app that lets users estimate their daily carbon footprint based on car tra
    - High → caution + advice  
 
 ---
+
+## Project Structure
+
+```bash
+---Basic_demo_ecommerce_app/
+│
+├── index.html # Main HTML file
+├── style.css # CSS styles for layout and design
+├── script.js # JavaScript logic for interactivity
+├── README.md # Project documentation
+
+
+
 
 ## 🚀 How to Use / Run Locally
 
