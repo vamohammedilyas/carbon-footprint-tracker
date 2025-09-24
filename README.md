@@ -61,8 +61,3 @@ A web app that lets users estimate their daily carbon footprint based on car tra
 
 
 
-## 🚀 How to Use / Run Locally
-
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/vamohammedilyas/carbon-footprint-tracker.git
