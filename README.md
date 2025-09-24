@@ -51,7 +51,7 @@ A web app that lets users estimate their daily carbon footprint based on car tra
 ## Project Structure
 
 ```bash
----Basic_demo_ecommerce_app/
+---basic carbon-footprint-tracker/
 │
 ├── index.html # Main HTML file
 ├── style.css # CSS styles for layout and design
